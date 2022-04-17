@@ -1,0 +1,136 @@
+.readmore{
+    margin: 100px 230px;
+}
+
+.readmoreHeading{
+    font-size: 2.5rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    border-bottom: 10px solid #1fb622;
+}
+
+.containerDesc{
+    margin-bottom: 50px;
+}
+
+.readmoreDesc{
+    font-family: 'Inter', sans-serif;
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.greenText{
+    color: #1fb622;
+    font-size: 0.8rem;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 0px;
+}
+
+.imgAndTextContainer{
+    display: flex;
+}
+
+
+.leftPart{
+    width: 70%;
+}
+
+.rightPart{
+    width: 30%;
+}
+
+.drugCampContainer{
+    display: flex;
+}
+
+.descHeading{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.imgCamp > img{
+    height: 300px;
+}
+
+
+.descCamp>p{
+    /* width: 90%; */
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    /* text-align: justify; */
+    font-weight: 300;
+    margin: 0 10px 20px;
+    border-bottom: 2px solid #1fb622;
+}
+
+.imgCampRight{
+    height: 340px;
+    margin-top: 50px;
+}
+
+.btnCamp{
+    width: 50%;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #1fb622;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.btnCamp > a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+.btnCamp>a> p{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+.right{
+    text-align: end;
+}
+
+.rightPart2{
+    width: 70%;
+}
+
+.leftPart2{
+    width: 30%;
+}
+
+.btnCamp_right{
+    width: 50%;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: #1fb622;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.btnCamp_right > a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+.btnCamp_right>a> p{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 5px;
+    font-size: 1.2rem;
+}
